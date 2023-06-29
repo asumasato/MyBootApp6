@@ -40,11 +40,8 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>jp.te4a.spring.boot</groupId>
-			<artifactId>MyBootApp4</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+
+		
 	</dependencies>
 
 	<build>
